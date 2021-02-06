@@ -10,7 +10,7 @@ yarn dev
 
 If you open [http://localhost:8080](http://localhost:8080) with your browser, you will see JSON response.
 
-> ::exclamation:: **Remember That**: When you change function name "hello" to another name, also you have to change functions framework target in the package.json
+> :exclamation: **Remember That**: When you change function name "hello" to another name, also you have to change functions framework target in the package.json
 
 ## Features
 
