@@ -14,5 +14,6 @@ If you open [http://localhost:8080](http://localhost:8080) with your browser, yo
 
 ## Features
 
-* ESNext features (Babel)
-* Hot Reload (Nodemon)
+- ESNext features (Babel)
+- Hot Reload (Nodemon)
+- ESLint(Airbnb) and Prettier

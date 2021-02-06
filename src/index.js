@@ -1,8 +1,8 @@
-import { name, interests } from './constants'
+import { name, interests } from './constants';
 
-export const hello = (req, res) => {
-    res.json({
-        name,
-        interests: [...interests, 'Web Components']
-    })
-}
+export const hello = (_req, res) => {
+  res.json({
+    name,
+    interests: [...interests, 'Web Components'],
+  });
+};
